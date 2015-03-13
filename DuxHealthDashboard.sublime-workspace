@@ -1,0 +1,829 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"controles",
+				"controles_ui5"
+			],
+			[
+				"propri",
+				"propriedade"
+			],
+			[
+				"inter",
+				"interação"
+			],
+			[
+				"asso",
+				"associação"
+			],
+			[
+				"Assoc",
+				"Associações"
+			],
+			[
+				"propr",
+				"propriedade"
+			],
+			[
+				"inici",
+				"inicializada"
+			],
+			[
+				"dependência",
+				"dependências"
+			],
+			[
+				"funciona",
+				"funcionalidades"
+			],
+			[
+				"aplica",
+				"aplicações"
+			],
+			[
+				"biblio",
+				"bibliotecas"
+			],
+			[
+				"bib",
+				"bibliotecas"
+			],
+			[
+				"nam",
+				"namespaces"
+			],
+			[
+				"fun",
+				"funções"
+			],
+			[
+				"disposi",
+				"dispositivos"
+			],
+			[
+				"navega",
+				"navegador"
+			],
+			[
+				"device",
+				"device_info"
+			],
+			[
+				"funcion",
+				"funcionalidades"
+			],
+			[
+				"na",
+				"namespace"
+			],
+			[
+				"ob",
+				"objeto"
+			],
+			[
+				"para",
+				"paradigma"
+			],
+			[
+				"recomend",
+				"recomendável"
+			],
+			[
+				"proje",
+				"projeto_eclipse_mvc"
+			],
+			[
+				"Web",
+				"WebContent"
+			],
+			[
+				"diret",
+				"diretórios"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"arqui",
+				"arquivos"
+			],
+			[
+				"format",
+				"formatos"
+			],
+			[
+				"desenvolved",
+				"desenvolvedores"
+			],
+			[
+				"desenvol",
+				"desenvolvedores"
+			],
+			[
+				"POST",
+				"POSTMAN"
+			],
+			[
+				"desenv",
+				"desenvolvimento"
+			],
+			[
+				"dese",
+				"desenvolvedores"
+			],
+			[
+				"desenvo",
+				"desenvolver"
+			],
+			[
+				"nave",
+				"navegadores"
+			],
+			[
+				"desen",
+				"desenvolvimento"
+			],
+			[
+				"aplicaç",
+				"aplicação"
+			],
+			[
+				"sig",
+				"significa"
+			],
+			[
+				"confiu",
+				"configurações"
+			],
+			[
+				"proce",
+				"processador"
+			],
+			[
+				"hospe",
+				"hospedar"
+			],
+			[
+				"aplcia",
+				"aplicações"
+			],
+			[
+				"hos",
+				"hospedar"
+			],
+			[
+				"aplic",
+				"aplicações"
+			],
+			[
+				"Java",
+				"JavaScript"
+			],
+			[
+				"plata",
+				"plataforma"
+			],
+			[
+				"recomen",
+				"recomendável"
+			],
+			[
+				"dire",
+				"diretório"
+			],
+			[
+				"est",
+				"estará"
+			],
+			[
+				"necess",
+				"necessário"
+			],
+			[
+				"plataf",
+				"plataformas"
+			],
+			[
+				"utiliza",
+				"utilização"
+			],
+			[
+				"platafo",
+				"plataforma"
+			],
+			[
+				"loca",
+				"localhost"
+			],
+			[
+				"dir",
+				"diretórios"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"html",
+				"htmlboiler	htmlboiler"
+			],
+			[
+				"if",
+				"ifeif	if … elseif … end"
+			],
+			[
+				"y",
+				"yi"
+			],
+			[
+				"end",
+				"endfor"
+			],
+			[
+				"gr",
+				"grad"
+			],
+			[
+				"grad",
+				"gradientDescentMulti"
+			],
+			[
+				"cu",
+				"current_std"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"th",
+				"theta"
+			],
+			[
+				"er",
+				"error_sum"
+			],
+			[
+				"x",
+				"xlabel"
+			],
+			[
+				"sca",
+				"scale_x"
+			],
+			[
+				"sc",
+				"scale_x"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"scale_",
+				"scale_y"
+			],
+			[
+				"scl",
+				"scale_y"
+			],
+			[
+				"scale",
+				"scale_y"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"pad",
+				"padding_bottom"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-",
+				"font-style:   (property)"
+			],
+			[
+				"ax",
+				"axis_x"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"scla",
+				"scale_x"
+			],
+			[
+				"key",
+				"key_selected"
+			],
+			[
+				"debug",
+				"debugger  (keyword)"
+			],
+			[
+				"main",
+				"mainModel"
+			],
+			[
+				"man",
+				"mainModel"
+			],
+			[
+				"get",
+				"getCore"
+			],
+			[
+				"ad",
+				"admin-gui"
+			],
+			[
+				"admi",
+				"admin-gui"
+			],
+			[
+				"ma",
+				"manager-status"
+			],
+			[
+				"mana",
+				"manager-status"
+			],
+			[
+				"rol",
+				"roles"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"role",
+				"rolename"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Markdown Preview/Markdown.sublime-build",
+	"command_palette":
+	{
+		"height": 167.0,
+		"selected_items":
+		[
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdow",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"omniM",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"previw",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"diction",
+				"Dictionaries: Set Language"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fabiopagoti/Dropbox/Work/DUX/DuxHealthDashboard"
+	],
+	"file_history":
+	[
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/controles_simples.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/controles_ui5.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/Book.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/controles_value_holders.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/namespaces.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/_codigo_fonte.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/commons/FormattedTextView-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/commons/FormattedTextView.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/commons/FormattedTextView.control",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/commons/FormattedTextViewControl.interface",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/commons/FormattedTextViewRenderer-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/code/hello_eclipse/WebContent/hello_eclipse/main1.view.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/controles_ui.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/code/hello_eclipse/WebContent/hello_eclipse/main.controller.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/code/hello_eclipse/WebContent/hello_eclipse/main2.view.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/code/hello_eclipse/WebContent/index.html",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/code/device/WebContent/device/device_info.view.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/code/hello_eclipse/WebContent/hello_eclipse/main.view.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/code/hello_world/index.html",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/projeto_eclipse_mvc.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/depurando_ui5.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/hello_world.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/namespaces.html",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/chapter3.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/chapter2.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/chapter1.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/code/device/WebContent/index.html",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/Subset.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/zyngascroll-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/vkbeautify-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/swipe-view-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/sinon-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/URI-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/sinon-server-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/signals-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/require-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/readme.html",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/qunit-reporter-junit-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/SecondLevelDomains-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/IPv6-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/qunit-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/punycode-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/mobify-carousel-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/less-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/jszip-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/jquery-mobile-custom-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/iscroll-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/iscroll-lite-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/hasher-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/handlebars-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/flexie-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/model/odata/ODataModel-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/datajs-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/d3-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/crossroads-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/thirdparty/caja-html-sanitizer-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/qunit/qunit-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/Sample.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap-ui-core-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap-ui-core-lean-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap-ui-core-lean.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/jquery-sap-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/base/Object-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/base/Object.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/commons/Button-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/commons/Button.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/commons/.library",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/js/utils.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/demokit/explored/Bootstrap-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/commons/.theming",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap-ui-core-all-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/m/.library",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/core/Core-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/base/Metadata-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/sap/ui/core/Core.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/code/01/themes/index.html",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/code/01/mvc_only_view/index.html",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/code/01/mvc_only_view/v/home.view.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/_outros_cursos_sapxo5.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/_outros_cursos_mind.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/_outros_cursos_chenai.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/ambiente_de_desenvolvimento.txt",
+		"/Users/fabiopagoti/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/fabiopagoti/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/code/Concatenate/WebContent/index.html",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/code/Concatenate/WebContent/concatenate/main.view.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/introducao.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/jquery-sap.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/jquery.sap.act-dbg.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/openui5-sdk/resources/jquery.sap.act.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/exercicios/01/hello_world/index.html",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/exercicios/static_server.js",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/exercicios/package.json",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/exercicios/hello_world/index.html",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/_hello_world.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/_outro_patamar.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/_mobile_friendly.txt",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/ambiente_de_desenvolvimento",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/Curso UI5/Exercicios Curso UI5/themes/index.html",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/Curso UI5/Exercicios Curso UI5/mvc_only_view/home.js.view",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/Curso UI5/Exercicios Curso UI5/mvc_only_view/index.html",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/Curso UI5/Exercicios Curso UI5/css/index.html",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/Curso UI5/Exercicios Curso UI5/css/style.css",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/Curso UI5/Exercicios Curso UI5/hello_world/index.html",
+		"/Users/fabiopagoti/Dropbox/Work/Private Training/Curso UI5/Exercicios Curso UI5/Hello World/index.html",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/costFunctionReg.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VIII. Neural Networks Representation (Week 4)/mlclass-ex3-008/mlclass-ex3/ex3.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VIII. Neural Networks Representation (Week 4)/mlclass-ex3-008/mlclass-ex3/oneVsAll.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VIII. Neural Networks Representation (Week 4)/mlclass-ex3-008/mlclass-ex3/predictOneVsAll.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VIII. Neural Networks Representation (Week 4)/mlclass-ex3-008/mlclass-ex3/lrCostFunction.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/ex2_reg.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/costFunction.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VIII. Neural Networks Representation (Week 4)/mlclass-ex3-008/mlclass-ex3/ex3_nn.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VIII. Neural Networks Representation (Week 4)/mlclass-ex3-008/mlclass-ex3/sigmoid.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VIII. Neural Networks Representation (Week 4)/mlclass-ex3-008/mlclass-ex3/displayData.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VIII. Neural Networks Representation (Week 4)/mlclass-ex3-008/mlclass-ex3/ex3data1.mat",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VIII. Neural Networks Representation (Week 4)/mlclass-ex3-008/mlclass-ex3/ex3weights.mat",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VIII. Neural Networks Representation (Week 4)/mlclass-ex3-008/ex3.pdf",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/ex2data2.txt",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/plotData.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/mapFeature.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/plotDecisionBoundary.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/ex2.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/predict.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/IV. Linear Regression with Multiple Variables (Week 2)/mlclass-ex1-008/mlclass-ex1/gradientDescent.m",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/ex2data1.txt",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/_smallData.txt",
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/_smallData.m"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"images",
+			"images/",
+			"images",
+			"capazes de d",
+			"images",
+			"pico",
+			"n",
+			"title",
+			"devide",
+			" ▸ ",
+			"table",
+			"jQe",
+			"jQu",
+			"Scooch",
+			"Device",
+			"requireModule",
+			"jQuery.sap.require",
+			"require(",
+			"sap.ui.def",
+			"sap.ui.",
+			"dependenc",
+			"commons",
+			"loadLibrary",
+			" loadLibrary",
+			"loadLi",
+			"mLibraries",
+			"getLoadedLibraries",
+			"rende",
+			"/index",
+			"index.html",
+			"H>",
+			"T>",
+			"T\\>",
+			"T>",
+			"H>",
+			"temos a criação das visões e ",
+			" o segundo bloco",
+			" o segundo bloco <script>, localizado ",
+			" é o segundo bloco <script>, localizado ",
+			"ser",
+			"![",
+			"OpenUI5.org",
+			"fiori",
+			"Fiori",
+			"H",
+			"if_ex_badi_book",
+			"badi",
+			"zcl_banco",
+			"zcl_conta",
+			"Z_BATCH_INPUT_VA01_99",
+			"unve",
+			"unpack",
+			"unpac",
+			"tabli",
+			"tab",
+			"afeprod\n",
+			"mark_for_deletion",
+			"mark_for_deletion\n",
+			"majle",
+			"majle\n",
+			"ackfields",
+			"SHA1",
+			"adresamp2",
+			"general",
+			"computeCost",
+			"y ",
+			"y",
+			"svg.axis",
+			"axis",
+			"\",\n",
+			"jpg",
+			"nyt-article-search",
+			"sample_app.",
+			"nyt-launchpad-m",
+			"other_page",
+			"numberUnit : \"{i18n>Tile_Info",
+			"Title",
+			"page",
+			"info : \"{i18n>Tile_Title",
+			"Title",
+			"resource",
+			"read",
+			"UI5En",
+			"demokit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"/",
+			"png",
+			"view",
+			"views.",
+			"sample_app",
+			"first_page",
+			"numberUnit : \"{i18n>Tile_NumberUnit",
+			"NumberUnit",
+			"view",
+			"page",
+			"info : \"{i18n>Tile_Info",
+			"Info"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MarGo-output":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 118.0
+	},
+	"project": "DuxHealthDashboard.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
