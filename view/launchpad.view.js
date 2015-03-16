@@ -41,6 +41,9 @@ sap.ui.jsview("view.launchpad", {
 						icon: "sap-icon://activity-individual",
 						iconDensityAware: false,
 						removable: false,
+						press: function(){
+							window.location.assign("../Prescription/index.html");  // mantem historico no navegador
+						}
 					}),
 
 					new sap.m.StandardTile("tile_examination", {

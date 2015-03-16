@@ -379,9 +379,13 @@
 	"build_system": "Packages/Markdown Preview/Markdown.sublime-build",
 	"command_palette":
 	{
-		"height": 167.0,
+		"height": 147.0,
 		"selected_items":
 		[
+			[
+				"project",
+				"STProjectMaker: Create project"
+			],
 			[
 				"markd",
 				"Set Syntax: Markdown"
@@ -472,10 +476,14 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/fabiopagoti/Dropbox/Work/DUX/DuxHealthDashboard"
+		"/Users/fabiopagoti/Dev/Dux/DuxHealthDashboard"
 	],
 	"file_history":
 	[
+		"/Users/fabiopagoti/Dev/Dux/DuxHealthDashboard/UI5 JVC Tiny App.sublime-workspace",
+		"/Users/fabiopagoti/Dev/Dux/DuxHealthDashboard/DuxHealthDashboard.sublime-project",
+		"/Users/fabiopagoti/Dev/Dux/DuxHealthDashboard/DuxHealthDashboard.sublime-workspace",
+		"/Users/fabiopagoti/Dev/Dux/DuxHealthDashboard/UI5 JVC Tiny App.sublime-project",
 		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/controles_simples.txt",
 		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/controles_ui5.txt",
 		"/Users/fabiopagoti/Dropbox/Work/Private Training/ui5/manuscript/Book.txt",
@@ -599,11 +607,7 @@
 		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/mapFeature.m",
 		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/plotDecisionBoundary.m",
 		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/ex2.m",
-		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/predict.m",
-		"/Users/fabiopagoti/Dev/Stanford Machine Learning/IV. Linear Regression with Multiple Variables (Week 2)/mlclass-ex1-008/mlclass-ex1/gradientDescent.m",
-		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/ex2data1.txt",
-		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/_smallData.txt",
-		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/_smallData.m"
+		"/Users/fabiopagoti/Dev/Stanford Machine Learning/VII. Regularization (Week 3)/mlclass-ex2-008/mlclass-ex2/predict.m"
 	],
 	"find":
 	{
