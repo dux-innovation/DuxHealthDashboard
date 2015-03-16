@@ -71,7 +71,7 @@ sap.ui.jsview("view.launchpad", {
 						//info : "{i18n>Tile_Info_Registration_Pacient}",
 						//numberUnit : "{i18n>Tile_NumberUnit_App4}",
 						//number: "{/App4/hits}",
-						icon: "sap-icon://person-placeholder"
+						icon: "sap-icon://person-placeholder",
 						press: function(){
 							window.location.assign("../DuxHealthPatientRegistrationApp");
 						}
