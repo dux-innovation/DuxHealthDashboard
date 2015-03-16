@@ -42,7 +42,7 @@ sap.ui.jsview("view.launchpad", {
 						iconDensityAware: false,
 						removable: false,
 						press: function(){
-							window.location.assign("../Prescription/index.html");  // mantem historico no navegador
+							window.location.assign("../DuxHealthPrescriptionApp");
 						}
 					}),
 
@@ -53,6 +53,9 @@ sap.ui.jsview("view.launchpad", {
 						//number: "{/App2/hits}",
 						icon: "sap-icon://stethoscope",
 						removable : false,
+						press: function(){
+							window.location.assign("../DuxHealthExaminationApp");
+						}
 					}),
 
 					new sap.m.StandardTile("tile_pep", {
