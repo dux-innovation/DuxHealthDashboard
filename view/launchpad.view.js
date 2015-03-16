@@ -72,6 +72,9 @@ sap.ui.jsview("view.launchpad", {
 						//numberUnit : "{i18n>Tile_NumberUnit_App4}",
 						//number: "{/App4/hits}",
 						icon: "sap-icon://person-placeholder"
+						press: function(){
+							window.location.assign("../DuxHealthPatientRegistrationApp");
+						}
 					}),
 
 					new sap.m.StandardTile("tile_registration_doctor", {
