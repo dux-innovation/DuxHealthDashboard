@@ -21,7 +21,7 @@ sap.ui.jsview("view.launchpad", {
 	createContent : function(oController) {
 
 		var page =  new sap.m.Page({
-			title : "DUX Health Dashboard 3",
+			title : "DUX Health Dashboard 2",
 			showNavButton: true,
 			backgroundDesign: sap.m.PageBackgroundDesign.Standard, 			
 
