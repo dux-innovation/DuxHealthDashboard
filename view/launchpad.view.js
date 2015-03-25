@@ -4,7 +4,7 @@ sap.ui.jsview("view.launchpad", {
 	 * Specifies the Controller belonging to this View. In the case that it is
 	 * not implemented, or that "null" is returned, this View does not have a
 	 * Controller.
-	 * 
+	 *
 	 * @memberOf view.launchpad
 	 */
 	getControllerName : function() {
@@ -15,15 +15,15 @@ sap.ui.jsview("view.launchpad", {
 	 * Is initially called once after the Controller has been instantiated. It
 	 * is the place where the UI is constructed. Since the Controller is given
 	 * to this method, its event handlers can be attached right away.
-	 * 
+	 *
 	 * @memberOf view.launchpad
 	 */
 	createContent : function(oController) {
 
 		var page =  new sap.m.Page({
-			title : "DUX Health Dashboard Fabio",
+			title : "DUX Health Dashboard Edu",
 			showNavButton: true,
-			backgroundDesign: sap.m.PageBackgroundDesign.Standard, 			
+			backgroundDesign: sap.m.PageBackgroundDesign.Standard,
 
 			content : [
 
@@ -106,10 +106,10 @@ sap.ui.jsview("view.launchpad", {
 				]
 
 			})
-	
+
 			]
 		});
-		
+
 		page.setEnableScrolling(false); // give a fixed height, so the TileContainer can use 100% height
 
 		return page;
